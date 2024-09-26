@@ -1,0 +1,11 @@
+{
+    // "dart.flutterSdkPaths": ["/Users/vajjasivateja/development/flutter"],
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 1000,
+    // "dart.flutterSdkPath": ".fvm/versions/3.22.2",
+    "editor.foldingMaximumRegions": 1000,
+    "editor.maxTokenizationLineLength": 20000,
+    "liveServer.settings.port": 5501
+  }
